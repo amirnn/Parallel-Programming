@@ -26,6 +26,10 @@ int main(int argc, char const *argv[])
         }
     }
 
+    // ToDo: Do the remaining summation of the elements since I used mod operataor above to
+    // determine the number of threads.
+    
+
     // To reduce Error we do this operation in the end.
     pi = step * sum;
 
